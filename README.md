@@ -52,6 +52,11 @@ Capture and receive a screenshot of the target system's primary monitor.
 
 ---
 
+## 📸 Screenshot
+
+![Screenshot](Screenshot.png)
+
+---
 ## ⚠️ Disclaimer
 
 This tool is intended **strictly for educational purposes**. Unauthorized use on systems without explicit permission is illegal and unethical. Use responsibly and ensure compliance with local laws.
