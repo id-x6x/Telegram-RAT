@@ -1,6 +1,6 @@
 # Remote Access Tool (RAT) Using Telegram for Command and Control Server (C&C Server)
 
-A lightweight and educational Remote Access Tool (RAT) leveraging Telegram as the Command and Control (C&C) server. This tool is designed **for educational purposes only** to demonstrate remote system monitoring and management using the Telegram Bot API.
+A lightweight and educational Remote Access Tool (RAT) leveraging Telegram as the Command and Control (C2). This tool is designed **for educational purposes only** to demonstrate remote system monitoring and management using the Telegram Bot API.
 
 ---
 
